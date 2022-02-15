@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tmihalicek/Desktop/tmihalicek.github.io",
+	"sourceRoot": "/Users/tmihalicek/Dropbox/Private/tmihalicek.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
